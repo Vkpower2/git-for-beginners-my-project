@@ -1,4 +1,4 @@
 welcome to the college
 
-author : Pavan
+author : Pavan vuppu
 Twitter : @vkpower2.0.
